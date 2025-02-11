@@ -33,7 +33,7 @@ section p{
 @media (min-width: 320px) and (max-width: 374.98px) {
     /* Your styles here */
     section img{
-        width:10vw;
+        width:100%;
         height: auto;
     }
   }
