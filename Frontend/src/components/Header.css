@@ -36,6 +36,8 @@ section p{
         width:100%;
         height: auto;
     }
+
+    body{background-color: white;}
   }
   
   /* Mobile M (medium phones) */
