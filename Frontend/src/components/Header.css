@@ -49,7 +49,25 @@ section p{
   /* Mobile L (large phones) */
   @media (min-width: 425px) and (max-width: 767.98px) {
     /* Your styles here */
-    body{background-color: blue;}
+    section{
+        padding: 2rem 4rem;
+    }
+
+    section img{
+        width:80%;
+    }
+
+    section h1{
+        font-size: 3.5rem;
+    }
+
+    section p{
+        line-height: 1.6;
+        font-size: 1.2rem;
+        margin: 0.9rem 0;
+        opacity: 0.6;
+    }
+
   }
   
   /* Tablet */
