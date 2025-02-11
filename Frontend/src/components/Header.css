@@ -43,13 +43,13 @@ section p{
   /* Mobile M (medium phones) */
   @media (min-width: 375px) and (max-width: 424.98px) {
     /* Your styles here */
-
+    body{background-color: green;}
   }
   
   /* Mobile L (large phones) */
   @media (min-width: 425px) and (max-width: 767.98px) {
     /* Your styles here */
-
+    body{background-color: blue;}
   }
   
   /* Tablet */
