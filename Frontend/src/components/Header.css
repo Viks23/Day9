@@ -9,3 +9,45 @@ img{
     width:20vw;
     height: auto;
 }
+
+
+/* Mobile S (small phones) */
+@media (min-width: 320px) and (max-width: 374.98px) {
+    /* Your styles here */
+    img{
+        width:10vw;
+        height: auto;
+    }
+  }
+  
+  /* Mobile M (medium phones) */
+  @media (min-width: 375px) and (max-width: 424.98px) {
+    /* Your styles here */
+
+  }
+  
+  /* Mobile L (large phones) */
+  @media (min-width: 425px) and (max-width: 767.98px) {
+    /* Your styles here */
+
+  }
+  
+  /* Tablet */
+  @media (min-width: 768px) and (max-width: 1023.98px) {
+    /* Your styles here */
+
+  }
+  
+  /* Laptop */
+  @media (min-width: 1024px) and (max-width: 1439.98px) {
+    /* Your styles here */
+
+  }
+  
+  /* Laptop L (large laptops) */
+  @media (min-width: 1440px) {
+    /* Your styles here */
+
+  }
+  
+
