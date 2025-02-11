@@ -15,7 +15,8 @@ function Header() {
            <br/>
            <i>& Developer</i>
         </h1>
-        <p>Premium Web Design, Development, and SEO Services to help your business stand out.</p>
+        <p>Premium Web Design, Development, and SEO <br/>
+        Services to help your business stand out.</p>
       </section>
     </main>
     </>
